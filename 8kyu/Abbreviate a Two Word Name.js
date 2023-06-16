@@ -4,10 +4,9 @@ function abbrevName(name) {
     console.log(arr);
     let initArr = [];
     for (let i = 0; i < arr.length; i++) {
-        //initArr.push(arr[i].charAt());
-        let x = `${arr[0].charAt()}.${arr[1].charAt()}`;
+        let x = `${arr[0].charAt().toUpperCase()}.${arr[1].charAt().toUpperCase()}`;
         return x;
     }
 }
 
-console.log(abbrevName('Artem Savinov'));
+console.log(abbrevName('artem savinov'));
