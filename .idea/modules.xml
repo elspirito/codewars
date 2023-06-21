@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Codewars.iml" filepath="$PROJECT_DIR$/.idea/Codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../freecodecamp/.idea/Freecodecamp.iml" filepath="$PROJECT_DIR$/../freecodecamp/.idea/Freecodecamp.iml" />
     </modules>
   </component>
 </project>
